@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Build artifacts
+build/
+dist/
+
+# Bundled binaries / packages
+ffmpeg
+*.whl
+
+# macOS
+.DS_Store
