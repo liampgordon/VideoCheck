@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['videocheck.py'],
+    ['videocheck_qt.py'],
     pathex=[],
     binaries=[('ffmpeg', '.')],
     datas=[],
